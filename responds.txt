@@ -1,0 +1,6 @@
+,,,
+ (2 lids per ,2, plant),
+ (1 lid per ,1, plant),
+ (1 lid per ,1, plant),
+ (2 lids per ,2, plants),
+ (1 lid per ,1, plant),
